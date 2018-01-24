@@ -34,7 +34,6 @@
     "read": "~1.0.7",
     "resume-schema": "latest",
     "resume-to-html": "latest",
-    "resume-to-text": "latest",
     "should": "^11.1.0",
     "superagent": "^2.0.0",
     "terminal-menu": "^2.1.1"
